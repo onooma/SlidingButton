@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="buttonHeight">48dp</dimen>
+    <dimen name="buttonHeightHalf">24dp</dimen>
+    <dimen name="circleHeight">40dp</dimen>
+    <dimen name="circleMargin">4dp</dimen>
+    <dimen name="circlePadding">6dp</dimen>
+</resources>
